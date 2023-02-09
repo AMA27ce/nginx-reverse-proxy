@@ -1,0 +1,4 @@
+var/log/*
+*.env
+nginx/nginx_*.conf
+nginx/certs/
